@@ -1,5 +1,5 @@
 {
-  "url": "https://lzlcbkpydmdlpjtwtsql.supabase.co",
-  "anonKey": "sb_publishable_iVjt0z0F5-XpShs_aJt25w_-l09pR7d",
-  "nota": "Projeto novo do Covil (cota zerada). O projeto antigo esta bloqueado por egress ate 05/09/2026. APAGUE este arquivo para todo mundo voltar ao endereco de fabrica."
+  "url": "https://covil.178-104-22-9.sslip.io",
+  "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzkxNzMzNDAzLCJleHAiOjI0MjI0NTM0MDN9.7nRQ_vCrPbTD8rJE8CuAnUI7tEaLmMeH71X86ggOIrw",
+  "nota": "Servidor proprio do Covil na VM dev-01 (desde 11/10/2026). A versao 0.1.54 ja vem com este endereco de fabrica; este apontador cobre quem ainda esta na 0.1.53."
 }
